@@ -7,11 +7,11 @@ Release:	0.1
 License:	Commercial
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.westwood.com/pub/cc1/previews/demo/cc1demo1.zip
-# Source0-md5:	7d770d38618e20796fbe642037f08de5
+# NoSource0-md5:	7d770d38618e20796fbe642037f08de5
 Source1:	ftp://ftp.westwood.com/pub/cc1/previews/demo/cc1demo2.zip
-# Source1-md5:	bbe489d259c4e6d6cadb4a2544b764aa
+# NoSource1-md5:	bbe489d259c4e6d6cadb4a2544b764aa
 Source2:	ftp://ftp.westwood.com/pub/redalert/previews/demo/ra95demo.zip
-# Source2-md5:	b44ab9ec1bc634ea755587d1988e3722
+# NoSource2-md5:	b44ab9ec1bc634ea755587d1988e3722
 NoSource:	0
 NoSource:	1
 NoSource:	2

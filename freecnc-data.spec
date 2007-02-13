@@ -1,5 +1,5 @@
 Summary:	Proprietary data files for freecnc
-Summary(pl.UTF-8):   Komercyjne pliki gry dla freecnc
+Summary(pl.UTF-8):	Komercyjne pliki gry dla freecnc
 Name:		freecnc-data
 Version:	0.1
 Release:	0.1

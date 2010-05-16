@@ -15,6 +15,7 @@ Source2:	ftp://ftp.westwood.com/pub/redalert/previews/demo/ra95demo.zip
 NoSource:	0
 NoSource:	1
 NoSource:	2
+BuildRequires:	unzip
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
